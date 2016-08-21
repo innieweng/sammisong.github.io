@@ -14,7 +14,7 @@
 .contactus-form-field{
     display: table-cell;
 }
-.contactus-form INPUT, .contactus-form TEXTAREA{
+.contactus-form INPUT[type=text], .contactus-form TEXTAREA{
     border: 1px solid #ccc;
 }
 
