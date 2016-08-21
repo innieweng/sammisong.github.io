@@ -7,9 +7,9 @@
 }
 .contactus-form-label{
     display: table-cell;
-    width: 30%;
+    width: 100px;
+    padding-bottom: 10px;
 }
 .contactus-form-field{
     display: table-cell;
-    width: 70%;
 }
